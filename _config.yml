@@ -1,11 +1,11 @@
 # Site settings
 title:
-email: shreekant.yahoo.com
+email: shreekant.pk@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: shreekantpk
+twitter_username: ShreekantPK
 github_username: shreekantpk
 
 # Build settings
