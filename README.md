@@ -1,14 +1,12 @@
-# Creative Theme for Jekyll
+# shree.uk 
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+To install jekyll, first install ruby then run the following command.
+`sudo gem install jekyll`
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+## Run website locally.
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+To run the website locally, run the following commands. 
 
-## To use the Creative Theme template in your project
+`jekyll build` - Builds the site and outputs a static site to a directory called `_site`.
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+`jekyll serve`
