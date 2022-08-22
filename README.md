@@ -1,4 +1,4 @@
-# shree.uk 
+# shree.uk website
 
 To install jekyll, first install ruby then run the following command.
 `sudo gem install jekyll`
