@@ -465,14 +465,14 @@
 .fa-fly:before {
   content: "\f417"; }
 
-.fa-font-awesome:before {
+/* .fa-font-awesome:before {
   content: "\f2b4"; }
 
 .fa-font-awesome-flag:before {
   content: "\f2b4"; }
 
 .fa-font-awesome-logo-full:before {
-  content: "\f2b4"; }
+  content: "\f2b4"; } */
 
 .fa-fonticons:before {
   content: "\f280"; }
@@ -1107,14 +1107,14 @@
 .fa-facebook-square:before {
   content: "\f082"; }
 
-.fa-square-font-awesome:before {
+/* .fa-square-font-awesome:before {
   content: "\e5ad"; }
 
 .fa-square-font-awesome-stroke:before {
   content: "\f35c"; }
 
 .fa-font-awesome-alt:before {
-  content: "\f35c"; }
+  content: "\f35c"; } */
 
 .fa-square-git:before {
   content: "\f1d2"; }
