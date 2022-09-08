@@ -13,5 +13,7 @@ To run the website locally, follow below steps. This will Build the site and out
 
 
 
-GitHub Action Status can be tracked here : 
+GitHub Action pipeline will be triggered as soon as there is a commit to main branch. 
+
+Status can be tracked here : 
 [![Docker Image CI](https://github.com/shree-uk/shree-uk/actions/workflows/pages.yml/badge.svg)](https://github.com/shree-uk/shree-uk/actions/workflows/pages.yml) 
