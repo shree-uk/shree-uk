@@ -9,3 +9,9 @@ To run the website locally, follow below steps. This will Build the site and out
 `jekyll build` 
 
 `jekyll serve`
+
+
+
+
+GitHub Action Status can be tracked here : 
+[![Docker Image CI](https://github.com/shree-uk/shree-uk/actions/workflows/pages.yml/badge.svg)](https://github.com/shree-uk/shree-uk/actions/workflows/pages.yml) 
