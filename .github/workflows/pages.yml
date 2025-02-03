@@ -34,7 +34,7 @@ jobs:
           name: jekyll-site
           path: ./_site
       - name: Download artifact
-        uses: actions/download-pages-artifact@v1
+        uses: actions/download-pages-artifact@v3
         with:
           name: jekyll-site
       - name: Deploy to GitHub Pages
